@@ -399,18 +399,17 @@ body{
   border-radius: 50px;
   background-color: rgb(230, 136, 82);
   border: none;
+  font-size: 20px;
+  font-weight: 600;
 }
 .div7 button:hover{
   background-color:rgb(114, 107, 107) ;
   color: white;
 }
-.boxf{
+.div7 .boxf{
   width:700px;
 }
-.name{
-  background-color:rgb(114, 107, 107) ;
-  border: none;
-}
+
 /* footer */
 .footer{
   width: 100%;
@@ -559,7 +558,12 @@ body{
    text-align: center;
   }
   .div7 .size{
-    width:68%;
-    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 0; */
+  }
+  .div7 .boxf{
+    width:100%;
   }
 }
