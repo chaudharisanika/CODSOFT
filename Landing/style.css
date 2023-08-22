@@ -425,7 +425,7 @@ body{
   text-align: center;
 
 }
-@media(max-width:1300px){
+@media(max-width: 1300px){
   .div1 h2{
     font-size: 60px;
   }
@@ -567,3 +567,9 @@ body{
     width:100%;
   }
 }
+/* @media(max-width:500px)
+{
+  body{
+    background-color: red;
+  }
+} */
