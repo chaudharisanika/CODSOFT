@@ -21,7 +21,7 @@ const typewritern=()=>{
       indexn > newnamen.length?indexn=1:indexn++;
       setTimeout(()=>{
         typewritern();
-      },300)
+      },400)
 }
 typewritern();
 
