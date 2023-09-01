@@ -11,14 +11,14 @@ const typewriter=()=>{
 }
 typewriter();
 
-let titlen = document.querySelector(".abouth");
-let newnamen = "Developer";
+let about = document.querySelector(".abouth");
+let newabout = "Developer";
 
 let indexn = 1;
 const typewritern=()=>{
-      let new_titlen = newnamen.slice(0,indexn);
-      titlen.innerText = new_titlen;
-      indexn > newnamen.length?indexn=1:indexn++;
+      let new_about = newabout.slice(0,indexn);
+      about.innerText = new_about;
+      indexn > newabout.length?indexn=1:indexn++;
       setTimeout(()=>{
         typewritern();
       },400)
