@@ -220,6 +220,7 @@
   #div4 .box img{
     width:400px;
     height: 50vh;
+    opacity:0.7;
   }
   #div5{
     width: 100%;
