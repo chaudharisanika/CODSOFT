@@ -26,7 +26,6 @@ const typewritern=()=>{
 typewritern();
 
 
-
 // function setNewImage(){
 // //    alert("hello")
 // document.querySelector("#responsive").id="#sanika"
