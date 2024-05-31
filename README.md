@@ -1,1 +1,1 @@
-[Tours](https://chaudharisanika.github.io/CODSOFT_taskno.1/Landing)
+[Tours](https://chaudharisanika.github.io/CODSOFT_taskno.1/)
